@@ -1,2 +1,2 @@
-UML_yadamo
+Model_yadamo
 ==========
